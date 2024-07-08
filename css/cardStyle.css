@@ -8,15 +8,11 @@
 .card-deck{
     margin-top: 15px;
     margin-bottom: 10px;
-    
-    
-
-
 }
 .card{
     border-radius: 20px;
     padding: 12px;
-    width: 700px ;
+    width: 50%;
     height: 550;
     align-items: center;
     overflow: hidden;
@@ -25,8 +21,6 @@
     margin-left: 25px;
     margin-right: 25px;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-    
-
 
 }
 .card-footer{
@@ -70,7 +64,7 @@
 .button2:hover {
     background-color: #150101;
     color: white;
-  }
+}
 
 .footer-btn{
     display: flex;
@@ -83,5 +77,15 @@
 .place-hov{
     margin-right: 6px;
     margin-top: 10px;
+}
+.viewMore-btn{
+    align-items: center;
+    margin-left: 700px; 
+    margin-top: 45px;
+}
+
+.pege-of{
+    margin-left: -25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
