@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: vazir;
+}
+
+ul {
+    list-style: none;
+    display: block;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(42, 24, 24);
+}
+
+
+li {
+    display: block;
+}
+
+.login_btn{
+    text-decoration: none;
+    color: black;
+}
+
+/* .header_text{
+    padding: 150px 0;
+    align-items: center;
+}
+
+.header_text p{
+    padding: 0px 50px;
+} */
+
+
+
+
+
+
+
+/* header {
+    padding: 0 80px;
+    height: calc(100vh - 80px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_text{
+    width: 700px;
+}
+
+.header_text h1 {
+    font-size: 80px;
+}
+
+.header_text h1 span {
+    color: #0f2182;
+}
+
+.header_text p {
+    margin: 40px 0;
+    color: #777;
+}
+
+.header_text a {
+    display: flex;
+    align-items: center;
+    background: #000;
+    width: 200px;
+    padding: 8px;
+    border-radius: 60px;
+}
+
+.header_text a i {
+    background-color: #fff;
+    font-size: 24px;
+    border-radius: 50%;
+    padding: 8px;
+}
+
+.header_text a span {
+    color: #fff;
+    margin-left: 10px;
+}
+
+header img{
+    width: 600px;
+} */
+
+
+header {
+    padding: 0 80px;
+    height: calc(100vh - 80px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .left {
+    width: 700px;
+}
+
+header .left h1 {
+    font-size: 80px;
+}
+
+header .left h1 span {
+    color: #0f2182;
+}
+
+header .left p {
+    margin: 40px 0;
+    color: #777;
+}
+
+header .left a {
+    display: flex;
+    align-items: center;
+    background: #000;
+    width: 200px;
+    padding: 8px;
+    border-radius: 60px;
+}
+
+header .left a i {
+    background-color: #fff;
+    font-size: 24px;
+    border-radius: 50%;
+    padding: 8px;
+}
+
+header .left a span {
+    color: #fff;
+    margin-left: 10px;
+}
+
+header img {
+    width: 600px;
+}
+
+
+
+
+.sell_title h2{
+    padding: 0 80px;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.sell-nft {
+    padding: 0 80px;
+    margin: 50px 0 80px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.sell-nft .item,
+.nft-shop .nft-list .item {
+    padding: 20px;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.sell-nft .item:hover,
+.nft-shop .nft-list .item:hover,
+.sellers .item:hover {
+    box-shadow: none;
+}
+
+.sell-nft .item .header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sell-nft .item .header i {
+    font-size: 40px;
+}
+
+.sell-nft .item .header h5 {
+    font-size: 17px;
+}
+
+.sell-nft .item p {
+    margin-top: 10px;
+    padding: 0 4px;
+}
+
+
+aSaL@m86y
